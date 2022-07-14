@@ -15,6 +15,8 @@ For a polynomial function, the arguments following "poly" are the coefficients o
 The program will output the estimated area under the curve between the two bounds using Riemann Integration.
 
 **Ex:**
+
 `poly 0 10 -2 -1 5 1e-6`
+
 `sin -0.27 3.55`
 
